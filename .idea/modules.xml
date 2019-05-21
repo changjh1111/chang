@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/commonparent/chang-eureka/changeureka.iml" filepath="$PROJECT_DIR$/commonparent/chang-eureka/changeureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonparent/commonparent.iml" filepath="$PROJECT_DIR$/commonparent/commonparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonparent/config-client/configclient.iml" filepath="$PROJECT_DIR$/commonparent/config-client/configclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonparent/config-server/configserver.iml" filepath="$PROJECT_DIR$/commonparent/config-server/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonparent/serice-feign/sericefeign.iml" filepath="$PROJECT_DIR$/commonparent/serice-feign/sericefeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonparent/service-hi/servicehi.iml" filepath="$PROJECT_DIR$/commonparent/service-hi/servicehi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonparent/service-ribbon/serviceribbon.iml" filepath="$PROJECT_DIR$/commonparent/service-ribbon/serviceribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonparent/service-test/servicetest.iml" filepath="$PROJECT_DIR$/commonparent/service-test/servicetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonparent/service-zuul/servicezuul.iml" filepath="$PROJECT_DIR$/commonparent/service-zuul/servicezuul.iml" />
+    </modules>
+  </component>
+</project>
